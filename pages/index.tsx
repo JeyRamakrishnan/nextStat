@@ -24,7 +24,7 @@ const Home: React.FC = () => {
         <figure className="max-w-3xl">
           <Image src={logo} alt="NextSSS Logo" />
         </figure>
-        <h1 className="mt-10 font-extrabold text-center">Hello, World!</h1>
+        <h1 className="mt-10 font-extrabold text-center">Hello, New World!</h1>
       </div>
     </Layout>
   )
